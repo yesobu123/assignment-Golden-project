@@ -34,5 +34,6 @@ for i in range(o):
             print(k+7,'AS')                                                                                                                                           
 #print(q)                                                                                                                                                            
 #print(l)                                                                                                                                                       
-#print(b)                                                                                                                                                                                                                                                                                                                                                            OUTPUT:                                                                                                                                                                     
+#print(b)                                                                                                                                                                                                                                                                                                                                           
+OUTPUT:                                                                                                                                                                 
 2 ws
